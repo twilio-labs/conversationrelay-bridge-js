@@ -9,7 +9,7 @@ export default [
     ignores: ["dist/**", "node_modules/**", "*.config.js", "*.config.ts"],
   },
   {
-    files: ["src/**/*.{js,ts}"],
+    files: ["{src,tests}/**/*.{js,ts}"],
     plugins: {
       "@typescript-eslint": typescriptEslint,
       prettier: prettier,
