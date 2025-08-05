@@ -1,6 +1,6 @@
 {
   "name": "@twilio-forward/conversationrelay-bridge",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A ConversationRelay bridge in JS",
   "homepage": "https://github.com/twilio-internal/conversationrelay-bridge-js#readme",
   "bugs": {
